@@ -32,10 +32,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  font:12px "cwTeXHei",  sans-serif;
+  font:13px "cwTeXHei",  sans-serif;
   line-height:1.5;
   letter-spacing: 2px;
-  margin:0 0 2110px;
+  margin:0 0 20px;
 }
 
 h1, h2, h3 {
