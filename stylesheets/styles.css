@@ -22,19 +22,19 @@ body {
   background-color: #FFD700;//整個網頁的底色
   padding:50px;
   color:#FF00FF;//住址文字的顏色
-  font:Georgia, "cwTeXHei";
+  font:"cwTeXHei", sans-serif;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font: 20px/5.5 "cwTeXMing";//為何只有文章標題變大
+  font: 20px/5.5 "cwTeXMing" serif;
   margin:0 0 20px;
 }
 
 p, ul, ol, table, pre, dl {
+  font:"cwTeXHei",  sans-serif;
+  line-height:2.0;
   margin:0 0 20px;
-  font:"cwTeXHei"
-  line-height:1.2;
 }
 
 h1, h2, h3 {
