@@ -17,6 +17,11 @@
        url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.woff2) format('woff2'),
        url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.woff) format('woff'),
        url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.ttf) format('truetype');
+
+content {
+  width: 400px;
+  margin: auto;
+}
 }
 body {
   background-color: #FFFAFA;//整個網頁的底色
