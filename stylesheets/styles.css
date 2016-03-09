@@ -19,7 +19,7 @@
        url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.ttf) format('truetype');
 }
 body {
-  background-color: #fff;
+  background-color: #E0EEE0;
   padding:50px;
   font: 14px/1.5 "cwTeXMing";
   color:#727272;
@@ -27,7 +27,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font: 14px/1.5 "cwTeXHei";
+  font: 14px/1.5 "cwTeXMing";
   color:#222;
   margin:0 0 20px;
 }
