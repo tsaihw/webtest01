@@ -27,7 +27,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font: 50px/1.5 "cwTeXMing";//為何只有文章標題變大
+  font: 25px/1.5 "cwTeXMing";//為何只有文章標題變大
   color:#8B008B;//為何只有網頁標題變色
   margin:0 0 20px;
 }
@@ -42,7 +42,7 @@ h1, h2, h3 {
 
 h1 {
 
-  font-size:60px;
+  font-size:28px;
 }
 
 h2 {
