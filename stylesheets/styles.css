@@ -31,14 +31,17 @@ h1, h2, h3 {
 }
 
 h1 {
+  font: 14px/1.5 "cwTeXMing";  
   font-size:28px;
 }
 
 h2 {
+  font: 14px/1.5 "cwTeXMing";
   color:#393939;
 }
 
 h3, h4, h5, h6 {
+  font: 14px/1.5 "cwTeXMing";
   color:#494949;
 }
 
@@ -113,6 +116,7 @@ img {
 }
 
 header {
+  font: 14px/1.5 "cwTeXMing";
   width:270px;
   float:left;
   position:fixed;
