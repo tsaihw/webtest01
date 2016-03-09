@@ -35,27 +35,27 @@ p, ul, ol, table, pre, dl {
   font:13px "cwTeXHei",  sans-serif;
   line-height:1.5;
   letter-spacing: 1px;
+  font-weight:lighter;
   margin:0 0 20px;
-}
-
-h1, h2, h3 {
-  font: 20px "cwTeXMing", serif;
-  line-height:1.0;
 }
 
 h1 {
   font-size:28px;
   color:#292929;
+  margin:0 0 10px;
   //網頁標題
 }
-
-h2 {
-
+h3 {
+  font: 20px "cwTeXMing", serif;
+  line-height:1.0;
+  //文章標題
+}
+h5 {
+  font-size:21px;
+  color:#292929;
+  //住址
 }
 
-h3, h4, h5, h6 {
-
-}
 
 a {
   color:#39c;
