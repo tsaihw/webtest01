@@ -19,7 +19,7 @@
        url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.ttf) format('truetype');
 }
 body {
-  background-color: #E0EEE0;//整個網頁的底色
+  background-color: #FFFAFA;//整個網頁的底色
   padding:10px;
   color:#333333;//全域文字的顏色
   font:"cwTeXHei", sans-serif;
@@ -32,28 +32,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  font:"cwTeXHei",  sans-serif;
+  font:14px "cwTeXHei",  sans-serif;
   line-height:1.5;
   margin:0 0 20px;
 }
 
 h1, h2, h3 {
+  font: 20px "cwTeXMing", serif;
   line-height:1.1;
 }
 
 h1 {
   font-size:28px;
-  color:#8B008B;
+  color:#292929;
   //網頁標題
 }
 
 h2 {
 
-  color:#393939;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+
 }
 
 a {
