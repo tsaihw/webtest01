@@ -16,30 +16,30 @@
 */
 
 .pl-c /* comment */ {
-  color: #999999;
+  color: #000000;
 }
 
 .pl-c1      /* constant, markup.raw, meta.diff.header, meta.module-reference, meta.property-name, support, support.constant, support.variable, variable.other.constant */,
 .pl-s .pl-v /* string variable */ {
-  color: #999999;
+  color: #000000;
 }
 
 .pl-e  /* entity */,
 .pl-en /* entity.name */ {
-  color: #795da3;
+  color: #000000;
 }
 
 .pl-s .pl-s1 /* string source */,
 .pl-smi      /* storage.modifier.import, storage.modifier.package, storage.type.java, variable.other, variable.parameter.function */ {
-  color: #333;
+  color: #000000;
 }
 
 .pl-ent /* entity.name.tag */ {
-  color: #63a35c;
+  color: #000000;
 }
 
 .pl-k /* keyword, storage, storage.type */ {
-  color: #a71d5d;
+  color: #000000;
 }
 
 .pl-pds              /* punctuation.definition.string, string.regexp.character-class */,
