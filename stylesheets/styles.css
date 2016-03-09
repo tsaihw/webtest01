@@ -22,7 +22,7 @@ body {
   background-color: #FFD700;//整個網頁的底色
   padding:50px;
   color:#FF00FF;//住址文字的顏色
-  font:"cwTeXHei";
+  font:Georgia, "cwTeXHei";
   font-weight:400;
 }
 
