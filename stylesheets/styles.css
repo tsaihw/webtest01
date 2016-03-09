@@ -19,15 +19,15 @@
        url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.ttf) format('truetype');
 }
 body {
-  background-color: #FFD700;//整個網頁的底色
+  background-color: #FDF5E6;//整個網頁的底色
   padding:50px;
-  color:#FF00FF;//住址文字的顏色
+  color:#FF00FF;//全域文字的顏色
   font:"cwTeXHei", sans-serif;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font: 20px/5.5 "cwTeXMing" serif;
+  font: 20px/55.5 "cwTeXMing" serif;
   margin:0 0 20px;
 }
 
