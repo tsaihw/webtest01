@@ -41,12 +41,12 @@ p, ul, ol, table, pre, dl {
 h1 {
   font-size:28px;
   color:#292929;
-  margin:0 0 10px;
+  margin:0 0 5px;
   //網頁標題
 }
 h3 {
   font: 20px "cwTeXMing", serif;
-  line-height:1.0;
+  margin:0 0 5px;
   //文章標題
 }
 h5 {
